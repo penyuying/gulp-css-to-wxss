@@ -1,6 +1,6 @@
 {
-  "name": "gulp-importcsstowxss",
-  "version": "1.0.1",
+  "name": "gulp-css-to-wxss",
+  "version": "1.0.0",
   "description": "处理wxss文件里引用的css",
   "main": "index.js",
   "scripts": {
@@ -8,18 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/penyuying/gulp-importCssToWxss.git"
+    "url": "git+https://github.com/penyuying/gulp-css-to-wxss.git"
   },
   "keywords": [
     "wxss",
     "css",
     "scss",
-    "sass"
+    "sass",
+    "微信"
   ],
   "author": "penyuying",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/penyuying/gulp-importCssToWxss/issues"
+    "url": "https://github.com/penyuying/gulp-css-to-wxss/issues"
   },
   "dependencies": {
     "through2": "^2.0.0"
@@ -27,5 +28,5 @@
   "peerDependencies": {
     "through2": "^2.0.0"
   },
-  "homepage": "https://github.com/penyuying/gulp-importCssToWxss#readme"
+  "homepage": "https://github.com/penyuying/gulp-css-to-wxss#readme"
 }
